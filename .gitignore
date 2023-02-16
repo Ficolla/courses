@@ -1,2 +1,3 @@
 /nodejs/1-node-tutorial/node_modules
 /nodejs/2-express-tutorial/node_modules
+.DS_Store

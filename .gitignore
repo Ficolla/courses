@@ -2,3 +2,4 @@
 /nodejs/2-express-tutorial/node_modules
 /nodejs/3-task-manager/starter/node_modules
 .DS_Store
+.env

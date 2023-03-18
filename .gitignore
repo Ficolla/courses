@@ -1,5 +1,6 @@
 /nodejs/1-node-tutorial/node_modules
 /nodejs/2-express-tutorial/node_modules
 /nodejs/3-task-manager/starter/node_modules
+/nodejs/4-store-api/starter/node_modules
 .DS_Store
 .env

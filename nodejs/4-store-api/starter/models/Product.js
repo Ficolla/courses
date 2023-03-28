@@ -19,7 +19,7 @@ const productschema = mongoose.Schema({
     },
     createdAt: {
         type: Date,
-        default: Date.Now()
+        default: Date.now()
     },
     company: {
         type: String,
